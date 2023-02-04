@@ -16,8 +16,8 @@
 .nvborder{
     margin-left: 5px;
     margin-right: 5px;
-    margin-bottom: 30px;
-    margin-top: 30px;
+    margin-bottom: 15px;
+    margin-top: 15px;
     background-image: url("C:\Users\USER\Desktop\Tourism\Images\leaf.jpg") no-repeat;
     background-size: cover;
     background-position: 0 0;
@@ -116,7 +116,7 @@ footer{
 
 		
 		
-		#position{
+		.positionform{
 			
 			
 			background-repeat: repeat;
