@@ -114,14 +114,14 @@ footer{
 }
 
 
-		body1{
-			background-repeat: repeat;
 		
-		background-image: url("leaf.jpg.jpg");
-		}
 		
 		#position{
 			
+			
+			background-repeat: repeat;
+		
+		background-image: url("leaf.jpg.jpg");
 			margin-top:115px;
 			margin-bottom:10px;
 		}
