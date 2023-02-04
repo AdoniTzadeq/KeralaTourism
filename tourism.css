@@ -112,3 +112,17 @@ footer{
 
     text-decoration: white;
 }
+
+
+		body1{
+			background-repeat: repeat;
+		
+		background-image: url("leaf.jpg.jpg");
+		}
+		
+		#position{
+			
+			margin-top:115px;
+			margin-bottom:10px;
+		}
+	
